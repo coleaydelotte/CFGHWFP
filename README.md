@@ -4,4 +4,3 @@
 
 - Cole Aydelotte
 - Francisco
-REMOVED
